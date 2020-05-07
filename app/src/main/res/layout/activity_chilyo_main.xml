@@ -118,12 +118,12 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="65dp"
-                        android:src="@drawable/logo_make_up" />
+                        android:src="@drawable/logo_bersih_rumah1" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Make Up"
+                        android:text="Bersih Rumah"
                         android:textAlignment="center"
                         android:fontFamily="@font/productsansbold"
                         android:textSize="13sp"
@@ -145,12 +145,12 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="65dp"
-                        android:src="@drawable/logo_self_nail" />
+                        android:src="@drawable/logo_bersih_kantor" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Self Nail"
+                        android:text="Bersih Kantor"
                         android:textAlignment="center"
                         android:fontFamily="@font/productsansbold"
                         android:textSize="13sp"
@@ -172,12 +172,12 @@
                     <ImageView
                         android:layout_width="match_parent"
                         android:layout_height="65dp"
-                        android:src="@drawable/logo_pedicure" />
+                        android:src="@drawable/logo_pengemas1" />
 
                     <TextView
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
-                        android:text="Spa"
+                        android:text="Pengemas Barang"
                         android:textAlignment="center"
                         android:fontFamily="@font/productsansbold"
                         android:textSize="13sp"
@@ -198,8 +198,7 @@
 
                     <ImageView
                         android:layout_width="match_parent"
-                        android:layout_height="65dp"
-                        android:src="@drawable/logo_hair_care" />
+                        android:layout_height="65dp" />
 
                     <TextView
                         android:layout_width="match_parent"
