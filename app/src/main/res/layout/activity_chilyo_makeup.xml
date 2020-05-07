@@ -58,7 +58,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:text="#MakeUp"
+                android:text="#Bersih Rumah"
                 android:textSize="20sp"
                 android:textColor="#000"
                 android:fontFamily="@font/productsansbold"
@@ -150,7 +150,7 @@
                     android:layout_height="80dp"
                     android:layout_row="0"
                     android:layout_column="0"
-                    android:src="@drawable/logo_make_up" />
+                    android:src="@drawable/logo_bersih_rumah1" />
 
             </LinearLayout>
 
@@ -213,7 +213,7 @@
                     android:layout_height="80dp"
                     android:layout_row="0"
                     android:layout_column="0"
-                    android:src="@drawable/logo_make_up" />
+                    android:src="@drawable/logo_bersih_rumah1" />
 
             </LinearLayout>
 
@@ -276,7 +276,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
-                android:text="#Hair Care"
+                android:text="#Pengemas Barang"
                 android:textSize="20sp"
                 android:textColor="#000"
                 android:fontFamily="@font/productsansbold"
