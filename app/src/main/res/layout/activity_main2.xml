@@ -10,7 +10,7 @@
         android:id="@+id/textId"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Thankyou for the Rating"
+        android:text="Makase gan so ba Rating"
         android:textSize="30dp"
         android:textAlignment="center"
         />
